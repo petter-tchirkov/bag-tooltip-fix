@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Bag Tooltip Fix
+## Notes: Keeps gamepad tooltips working in bags, makes RS toggle them reliably, and shows tooltips next to their window.
+## Author: tchirkov.petter
+## Version: 1.5.0
+## SavedVariables: BagTooltipFixDB
+BagTooltipFix.lua
